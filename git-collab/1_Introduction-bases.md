@@ -1,4 +1,4 @@
-# DQPRM
+# DQPRM 2026-208
 
 ## A la (re)découverte de Python
 
@@ -7,6 +7,8 @@
 Version 2026
 
 ---
+
+* Travail en groupe 
 
 ## Présentation et objectifs
 
