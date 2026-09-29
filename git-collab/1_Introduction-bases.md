@@ -9,6 +9,7 @@ Version 2026
 ---
 
 * Travail en groupe 
+en collaboration avec Flavy Fouque Laura Kersaudy Michael Dagher et Pauline Mignon
 
 ## Présentation et objectifs
 
