@@ -9,7 +9,8 @@ Version 2026
 ---
 
 * Travail en groupe 
-en collaboration avec Flavy Fouque Laura Kersaudy Michael Dagher et Pauline Mignon
+en collaboration avec Flavy Fouque Laura Kersaudy Michael Dagher et Pauline Mignon 
+réalisé dans le cadre de l'UE 1.1 GIT
 
 ## Présentation et objectifs
 
