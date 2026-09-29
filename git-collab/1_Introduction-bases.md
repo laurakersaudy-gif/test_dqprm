@@ -8,6 +8,8 @@ Version 2026
 
 ---
 
+* Travail en groupe 
+
 ## Présentation et objectifs
 
 * Python est un langage de programmation **open source** et **gratuit**, très largement utilisé dans le monde de la recherche pour le traitement de données scientifiques, le développement d'applis web, l'administration système, le prototypage, ...
