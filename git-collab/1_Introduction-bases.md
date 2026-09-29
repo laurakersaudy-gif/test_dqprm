@@ -1,4 +1,4 @@
-# DQPRM 2026-208
+# DQPRM 2026-2028
 
 ## A la (re)découverte de Python
 
