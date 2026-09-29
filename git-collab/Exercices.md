@@ -2,6 +2,8 @@
 
 ## Exercices de mise en pratique en Python
 
+### Bon courage
+
 #### Albertine Dubois - albertine.dubois@cea.fr, Ludovic Ferrer - Ludovic.Ferrer@ico.unicancer.fr & Marion Savanier - marion.savanier@cea.fr
 
 Version 2026
