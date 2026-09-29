@@ -63,7 +63,7 @@ Dans la cellule suivante, j'affiche du texte avec Python à l'aide de la fonctio
 
 
 ```python
-print("Coucou les futurs physiciens médicaux")
+print("Coucou les futurs physiciens médicaux qui sot beaucoup trop forts en codes")
 ```
 
 
